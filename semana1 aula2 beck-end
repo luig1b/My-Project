@@ -1,0 +1,115 @@
+Relatório sobre a eficácia dos editores de texto
+
+Visando que vocês buscam um entendimento melhor sobre softwares de edição de código, venho aqui apresentar uma boa alternativa a vocês.
+
+Em primeiro lugar temos que começar com uma parte mais simples para melhor entendimento dos editores de texto, então vamos apresentar primeiro a formatação e a visualização, para isso iremos usar como exemplo o Vscode (Visual studio code).
+
+Formatação e visualização
+A formatação e a visualização se trata de um elemento crucial para a edição de qualquer tipo de código, em qualquer editor de texto básico que você encontre por aí o código que você irá escrever se parecera com um texto comum e não terá elementos que se destaquem no seu código.
+Já no Vscode seu código terá destaque em Funções e em sintaxes importantes que devem ser ressaltadas para melhor entendimento do código, além disso o Vscode consegue deixar o código mais organizado e possui extensões que permite o usuária a visualizar código em alguma pagina da web (se caso for usado HTML ou CSS).
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Relatório: Descobrindo como configurar o editor de código**
+
+**Introdução**
+Com o crescimento da empresa e o início do desenvolvimento de sites, tornou-se necessário utilizar ferramentas mais avançadas do que editores de texto simples. Editores básicos permitem apenas escrever código, enquanto editores de código profissionais, como o Visual Studio Code (VS Code), oferecem recursos que aumentam a produtividade, reduzem erros e organizam melhor os projetos.
+Este relatório apresenta a comparação entre o uso de um editor de texto básico e um editor de código profissional na criação de páginas web.
+
+---
+
+### 1. Formatação e visualização
+
+Em um editor de texto básico, o código aparece como texto comum, sem cores ou destaque. Isso dificulta a leitura e a identificação de elementos como tags HTML, atributos e comentários.
+
+Já em um editor de código como o VS Code:
+
+* O código é exibido com **realce de sintaxe** (cores diferentes para cada parte do código).
+* A indentação automática ajuda a manter o código organizado.
+* É possível visualizar melhor a estrutura da página.
+* Existem extensões que permitem visualizar o site em tempo real no navegador.
+
+Isso torna a leitura e a escrita do código muito mais claras e profissionais.
+
+---
+
+### 2. Autocompletar
+
+Em editores simples, o programador precisa digitar todo o código manualmente e lembrar de todas as tags e comandos.
+
+No VS Code:
+
+* O recurso de **autocompletar** sugere tags HTML, propriedades CSS e comandos.
+* Reduz o tempo de digitação.
+* Diminui erros de escrita.
+* Ajuda iniciantes a aprender mais rápido.
+
+Esse recurso aumenta a produtividade e facilita o desenvolvimento.
+
+---
+
+### 3. Verificação de erros
+
+Em um editor básico, erros só são percebidos ao abrir o site no navegador.
+
+No editor profissional:
+
+* O VS Code identifica **erros em tempo real**.
+* Mostra alertas quando uma tag não é fechada corretamente.
+* Aponta problemas de sintaxe.
+* Sugere correções automáticas.
+
+Isso evita retrabalho e ajuda a manter o código funcionando corretamente.
+
+---
+
+### 4. Organização
+
+Projetos maiores exigem organização de arquivos e pastas.
+
+Em editores simples:
+
+* A organização é limitada.
+* Não há integração com pastas do projeto de forma visual.
+
+No VS Code:
+
+* É possível criar e gerenciar pastas e arquivos facilmente.
+* Visualização em árvore do projeto.
+* Busca rápida por arquivos.
+* Abas para múltiplos arquivos abertos.
+* Comentários e anotações no código.
+
+Isso facilita o trabalho em projetos maiores e em equipe.
+
+---
+
+### 5. Integração com outras ferramentas
+
+Editores simples não possuem integração com ferramentas externas.
+
+O VS Code permite:
+
+* Integração com Git e GitHub.
+* Instalação de extensões.
+* Terminal integrado.
+* Visualização do site em tempo real.
+* Suporte a várias linguagens (HTML, CSS, JavaScript, Python, etc.).
+
+Essa integração transforma o editor em um ambiente completo de desenvolvimento.
+
+---
+
+**Conclusão**
+O uso de um editor de código profissional como o Visual Studio Code traz diversas vantagens em relação aos editores de texto básicos. Recursos como formatação automática, autocompletar, verificação de erros, organização de arquivos e integração com outras ferramentas aumentam a produtividade, reduzem erros e tornam o desenvolvimento mais profissional.
+Para uma empresa que está iniciando no desenvolvimento web, a adoção de um editor de código é essencial para garantir qualidade e eficiência nos projetos.
